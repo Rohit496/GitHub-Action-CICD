@@ -1,6 +1,6 @@
 public with sharing class Demo {
     public Demo() {
-        System.debug('Demo constructor');
+        // this is a demo class
         System.debug('Demo constructor');
     }
 }
