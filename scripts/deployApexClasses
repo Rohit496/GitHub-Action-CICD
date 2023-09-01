@@ -1,0 +1,3 @@
+# Deploy Apex Classes
+sf project deploy start --metadata ApexClass
+sf project deploy start --metadata ApexTrigger
